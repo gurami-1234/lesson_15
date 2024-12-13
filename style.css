@@ -24,3 +24,16 @@ body {
   display: flex;
   gap: 10px;
 }
+
+.footer {
+  width: 100%;
+  padding: 10px 0;
+  text-align: center;
+  background-color: rgb(255, 223, 223);
+  position: absolute;
+  bottom: 0;
+}
+
+.footer p {
+  margin: 0;
+}
